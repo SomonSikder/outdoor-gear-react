@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "olive-house-e466d"
-  }
+    "default": "olive-house-e466d",
+    "staging": "outdoor-gear-c3639"
+  },
+  "targets": {}
 }
