@@ -1,6 +1,6 @@
-# website name (Olive)
+# website name (Outdoor Gear Store)
 
-Deploy Project Link Is Here (https://assignment-12-ac39c.web.app/).
+Deploy Project Link Is Here (https://outdoor-gear-c3639.web.app/).
 
 ## Available Scripts
 
