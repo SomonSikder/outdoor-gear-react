@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Licorice&family=Roboto&family=The+Nautigal:wght@700&display=swap");
+.header {
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+}
+.font-style {
+  font-family: "Licorice", cursive;
+  font-family: "Roboto", sans-serif;
+  font-family: "The Nautigal", cursive;
+  font-size: 2rem;
+}
